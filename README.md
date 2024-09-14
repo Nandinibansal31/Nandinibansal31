@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm NANDINI BANSAL</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"Aspiring AI Engineer with a passion for problem-solving and innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandinibansal31&label=Profile%20views&color=0e75b6&style=flat" alt="nandinibansal31" /> </p>
 
-- 🔭 I’m currently working on **HEALTHSYNC HUB**
+- 🔭 Computer Science student specializing in Artificial Intelligence
 
-- 🌱 I’m currently learning **MACHINE LEARNING**
+- 🌱 I’m currently persuing **MACHINE LEARNING**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nandinibansal31](https://github.com/Nandinibansal31)
 
