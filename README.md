@@ -1,76 +1,83 @@
-# 👋 Hi, I'm Nandini Bansal  
+# 👋 Hi, I'm Nandini Bansal
 
-💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 📊 Data Analytics Learner  
+💻 Frontend Developer | 📊 Data Analytics Enthusiast | 🤖 AI/ML Explorer  
 🎓 B.Tech CSE (AI Specialization)  
-📍 India  
+📍 India
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-I’m a Full Stack Developer with hands-on production experience building scalable web applications using **React, TypeScript, and Node.js**.
+I am a developer with **production experience building web applications** and a strong interest in **data analytics and data-driven decision making**.
 
-I actively explore **AI/ML, LLMs, and RAG systems**, and enjoy solving real-world problems using data-driven approaches.
+I enjoy **analyzing datasets, building dashboards, and extracting meaningful insights** using Python, SQL, and Power BI. Alongside analytics, I also develop **scalable frontend applications** using modern web technologies.
 
-I focus on writing clean, reusable, and scalable code while continuously improving my backend and system design skills.
+I aim to combine **data insights with intuitive user interfaces** to build impactful digital products.
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
-### 💻 Programming  
-JavaScript • TypeScript • Python • Java • C++ • SQL  
-
-### 🌐 Frontend  
-React.js • Next.js • Tailwind CSS • HTML • CSS  
-Responsive Design • Component Architecture  
-
-### ⚙ Backend  
-Node.js • Express.js  
-REST APIs • Microservices  
-
-### 🗄 Databases  
-MongoDB • MySQL • Firebase • Firestore  
-
-### 📊 Data & Analytics  
-Pandas • NumPy • Scikit-learn  
+### 📊 Data Analytics
+Python • SQL • Pandas • NumPy  
 Power BI • Tableau • Excel  
-EDA • KPI Tracking • Data Visualization  
+Exploratory Data Analysis (EDA) • Data Visualization • KPI Analysis
 
-### 🤖 AI / ML  
-TensorFlow • Keras  
-OpenAI API • LangChain  
-Prompt Engineering • RAG Systems  
+### 💻 Programming
+Python • JavaScript • TypeScript • C • SQL
 
-### ☁ Tools  
-Git • GitHub • Docker • AWS  
-Postman • VS Code • Jupyter • Google Colab  
+### 🌐 Frontend Development
+React.js • Next.js • Tailwind CSS  
+HTML • CSS • Responsive Design
 
----
+### 🗄 Databases
+MySQL • MongoDB • Firebase • Firestore
 
-## 💼 Experience  
+### 🤖 AI / ML
+Scikit-learn • TensorFlow • Keras  
+Natural Language Processing (NLP)
 
-### SDE Trainee – Rapipay  
-- Contributed to frontend development of production applications  
-- Built reusable shared component libraries  
-- Improved application usability and UI performance  
-- Worked with AWS, MongoDB, and production deployments  
-- Collaborated in Agile environment following Git best practices  
+### ⚙ Tools
+Git • GitHub • Jupyter Notebook • VS Code  
+Postman • Google Colab • Power BI
 
 ---
 
-## 📈 Current Focus  
+## 💼 Experience
 
-- Scalable Backend Development  
-- System Design Fundamentals  
-- Applied AI with LLMs  
-- Advanced Data Analytics  
+**SDE Trainee – Rapipay**
+
+- Contributed to development of production web applications using **React and TypeScript**
+- Built **reusable UI components** used across multiple applications
+- Improved **Admin Portal usability and responsiveness**
+- Worked in a **production Agile environment** using Git and JIRA
+- Integrated APIs and data-driven interfaces for operational dashboards
 
 ---
 
-## 📫 Connect With Me  
+## 📊 Featured Projects
 
-📧 nandinibansal84@gmail.com    
+- **Amazon Sales Review Analysis** – Sentiment analysis on 50k+ reviews using Python and NLP  
+- **Superstore Sales Dashboard** – Interactive Power BI dashboard analyzing \$2.3M sales dataset  
+- **Blinkit Sales Analysis Dashboard** – Business insights using Power BI, DAX, and Excel  
+- **AI-Based Frame Interpolation** – Final year AI project for generating intermediate frames
+
+---
+
+## 📈 Current Focus
+
+- Advanced **Data Analytics & SQL**
+- **Business Intelligence Dashboards**
+- **Data Visualization**
+- Building **data-driven web applications**
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: nandinibansal84@gmail.com  
+💼 LinkedIn:[ www.linkedin.com/in/nandini-bansal-61ba67273/ ](https://www.linkedin.com/in/nandini-bansal-61ba67273/) 
+
 ---
 
 ⭐ Always learning. Always building. Always improving.
